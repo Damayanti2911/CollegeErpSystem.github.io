@@ -1,0 +1,43 @@
+nav a{
+    font-size: 20px;
+    color: rgb(9, 57, 119);
+    float: right;
+    text-decoration: none;
+    padding: 10px;
+}
+header
+{
+    color: rgb(168, 107, 50);
+    font-size: 40px;
+    text-align: left;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: rgb(39, 36, 36);
+}
+.menu
+{
+    font-size: 20px;
+    text-align: center;
+    float: left;
+    color: black;
+    padding: 30px;
+    padding-bottom: 40px;
+    background-color:rgb(243, 230, 207);
+}
+.about{
+    background-color:rgb(243, 230, 207);
+    padding-top: 20px;
+}
+
+.form_class
+{
+    padding-left: 550px;
+    padding-bottom: 30px;
+}
+footer
+{
+    color: whitesmoke;
+    padding-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
